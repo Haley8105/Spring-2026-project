@@ -1,5 +1,5 @@
 # CIS-3902-Final-
- <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/DataMining_Project_Template_Spring_2026%20(1).ipynb">Reading Various Types of Files in Colab</a><br>
+ <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/DataMining_Project_Template_Spring_2026%20(1).ipynb">Project Template </a><br>
 
 https://github.com/Haley8105/CIS-3902-Final-/blob/main/loan_approval_dataset.csv
 <a href="https://github.com/Haley8105/CIS-3902-Final-/blob/main/loan_approval_dataset.csv">Loan Approval Dataset (CSV)</a><br>
