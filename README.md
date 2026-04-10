@@ -1,5 +1,4 @@
-# CIS-3902-Final-
-## Loan Approval Project
+# Loan Approval Project
 Haley Benge 
 This model will predict if an applicant will be approved or rejected for a loan. 
 
