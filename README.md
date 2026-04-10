@@ -1,7 +1,10 @@
 # CIS-3902-Final-
 ## Loan Approval Project
-### Haley Benge 
+Haley Benge 
 This model will predict if an applicant will be approved or rejected for a loan. 
+## Deliverables and Highlights 
+### Deliverable 1 
+This portion of the project explains where the dataset was acquired, the problem being solved, and the use case.
 
 
  <a href="https://github.com/Haley8105/CIS-3902-AI-and-ML/blob/main/DataMining_Project_Template_Spring_2026%20(1).ipynb">Project Template </a><br>
