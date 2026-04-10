@@ -1,5 +1,5 @@
 # Loan Approval Project
-Haley Benge 
+Haley Benge <br>
 This model will predict if an applicant will be approved or rejected for a loan. 
 
 ## Dataset and templates
