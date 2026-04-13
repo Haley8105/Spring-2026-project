@@ -12,7 +12,7 @@ This model will predict if an applicant will be approved or rejected for a loan.
 ### Deliverable 1 
 This portion of the project explains where the dataset was acquired, the problem being solved, and the use case.
 
-<a href="https://github.com/Haley8105/CIS-3902-Final-/blob/main/Loan_Approval_Project.ipynb">Deliverable 1</a><br>
+<a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project%20(1).ipynb">Deliverable 1</a><br>
 
 
 
