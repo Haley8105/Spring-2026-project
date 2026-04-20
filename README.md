@@ -14,5 +14,8 @@ This portion of the project explains where the dataset was acquired, the problem
 
 <a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project%20(1).ipynb">Deliverable 1</a><br>
 
-
+## Deliverables and Highlights 
+### Deliverable 2
+The second deliverable prepares the data for modeling and completes an Exploritory Data Analysis.
+<a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project.ipynb">Deliverable 2</a><br>
 
