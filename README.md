@@ -19,3 +19,7 @@ The second deliverable prepares the data for modeling and completes an Explorito
 
 <a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project.ipynb">Deliverable 2</a><br>
 
+### Deliverable 3 
+The third deliverable develops multiple models and evaluate their performance, identifies key features, and interprets the information provided by the models
+
+<a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project%20(2).ipynb">Deliverable 2</a><br>
