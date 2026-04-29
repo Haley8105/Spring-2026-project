@@ -25,6 +25,6 @@ The third deliverable develops multiple models and evaluate their performance, i
 <a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan_Approval_Project%20(2).ipynb">Deliverable 2</a><br>
 
 ### Presentation
-This powerpoint summarizes the project, including basic information, methods, results and visualization. 
+This powerpoint summarizes the project, including basic information, methods, results and visualizations. 
 
 <a href="https://github.com/Haley8105/Spring-2026-project/blob/main/Loan%20Approval%20Presentation.pptx"> Presentation</a><br>
